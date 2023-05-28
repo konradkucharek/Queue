@@ -2,8 +2,8 @@
 //=========================================================
 // Program: Queue
 // Name: Konrad Kucharek
-//Complier:  G++
-//File type: Queue Program file
+// Complier:  G++
+// File type: Queue Program file
 //===========================================================
 
 using namespace std;
